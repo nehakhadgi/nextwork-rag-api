@@ -1,0 +1,16 @@
+﻿# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Databases
+db/
+
+# Docker logs and local files
+.dockerignore
+.env
